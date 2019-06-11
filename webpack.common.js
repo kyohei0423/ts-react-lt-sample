@@ -6,7 +6,7 @@ module.exports = {
   entry: './src/main.tsx',
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'ApplicationName',
+      title: 'LT用のサンプル',
       template: 'index.html',
       inject: false
     }),
