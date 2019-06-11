@@ -1,7 +1,6 @@
-# dev-templates
-
-## Clone React
+## development
 
 ```bash
-$ git clone -b react git@github.com:kyohei0423/dev-templates.git your-app-name
+$ yarn # install packages
+$ yarn start # start web server
 ```
